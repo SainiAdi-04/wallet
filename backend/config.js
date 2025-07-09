@@ -1,0 +1,3 @@
+module.exports={
+    JWT_SECRET:"428be984849cdb82d7c97476097a7a947daa09feaad6fee2936b39b7a7e43aa598b1fa1b4b497e347348abc2670f8bbdf9b3879372a2ed8ecea5775b37c4e1b7"
+}
